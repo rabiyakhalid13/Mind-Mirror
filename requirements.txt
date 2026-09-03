@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+scipy
+streamlit
+mysql-connector-python
+python-dotenv
+matplotlib
+seaborn
+vaderSentiment
+langchain
+langchain-google-genai
+joblib
