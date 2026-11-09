@@ -1,6 +1,6 @@
 # MindMirror
 
-An AI journaling companion that learns your mood patterns and responds with gentle, CBT-inspired support — built for [Hackathon Name] 2026.
+An AI journaling companion that learns your mood patterns and responds with gentle, CBT-inspired support — built for Hack for Humanity Hackathon 2026.
 
 ## The problem
 
